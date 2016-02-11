@@ -1,0 +1,30 @@
+_repo: Mita-meidan-siis-on-tekeminen_50482
+contributor:
+  translator:
+    agent_name: Järnefelt, K. W.
+    gutenberg_agent_id: '45932'
+    url: http://www.gutenberg.org/2009/agents/45932
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Lev N.
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2015-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50482'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Mitä meidän siis on tekeminen?
+url: http://www.gutenberg.org/ebooks/50482
